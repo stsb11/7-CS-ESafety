@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: eSafety
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott 
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
