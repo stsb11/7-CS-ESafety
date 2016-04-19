@@ -114,8 +114,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-[[https://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2015/2/21/1424526086551/ea488eab-7631-4a5c-800e-0ea1952b6e85-bestSizeAvailable.jpeg]]
-[[https://i.huffpost.com/gen/871434/thumbs/o-LINDSEY-STONE-FACEBOOK-PHOTO-ARLINGTON-NATIONAL-facebook.jpg]]
+[[./img/l_stone_memorial.jpg]]
 - Everyone likes to share photos online. Sometimes we do it without really thinking about the consequences.
 - Have a read of [[http://readwrite.com/2012/11/26/social-media-shaming-and-a-dumb-photo][this article about Lindsey Stone]], who also liked to share photographs online.
 ** Research It
@@ -123,7 +122,7 @@
 :HTML_CONTAINER_CLASS: research
 :END:
 - It's not just photos that can get you in trouble.
-[[https://www.nrc.nl/longreads/files/2015/02/Justine-Sacco-008.jpg]]
+[[./img/sacco_tweet.jpg]]
 - Have a look at [[http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html][this article on Justine Sacco]], who thought she was just sending a joke tweet.
 ** Try It
 :PROPERTIES:
