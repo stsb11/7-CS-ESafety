@@ -149,7 +149,7 @@ Hours spent doing Homework per Day:
 - Did you click =Submit=? Did you read the warning message?
 - If so then you are probably not alone. We often click on buttons, fill in forms and accept terms and conditions without reading them.
 - Often we don't even think about where that information goes or what the receiver will do with it.
-- This is a prime example of unsafe behaviour. You should never share personal details online.
+- This is a good example of unsafe behaviour. You should never share personal details online.
 - There are a few simple measures you can take to ensure you stay safe.
 - Have a watch of this video
 #+begin_html
