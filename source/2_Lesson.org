@@ -108,7 +108,7 @@ Look at this girl's social network account:
 http://www.childnet.com/ufiles/Friendbook%20timeline.pdf
 
 ** Document It
-List some of the things that she has on her profile and separate them into:
+List, in Word or another text editor, some of the things that she has on her profile and separate them into:
  
 - safe and responsible networking
 
@@ -116,7 +116,11 @@ List some of the things that she has on her profile and separate them into:
 
 Here's one to get you started 
  - E.g. Use of a cartoon for a profile picture - safe
-
+** Badge It: Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Upload your document to BourneToLearn.com in the silver task place for Week 2.
 * Being a good digital citizen:
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -180,11 +184,38 @@ file:img/dodgylink.png
 - This can be a positive thing in terms of online counselling services such as [[https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/][Childline]]. However, some people engage children and young people in private discussions through flattery, persuasion and manipulation. 
 - You need to be aware of this and make sure that your private discussions are done with trustworthy, qualified people. 
 
+** Badge It: Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Write down the answers to the questions as you play.
+- Click the [[https://www.esafety.gov.au/access/games_index.html][link]] and go to 'Pic your friends' - How can we spot a friend or a bully/[[https://www.wired.com/2015/07/catfish-2/][catfish]]?
+- From Crowd Surfing - what were the three rules before passing things on to someone else?
+- From DropBox - What makes something safe? What three courses of action do they suggest? Screenshot your time on the hard setting.
+- Flip and Fix - On the hard setting - What are the 8 'safe' responses?
+- Upload your document to BourneToLearn.com in the gold task place for Week 2.
+
 * Password Protection
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
 - Finally let's learn about passwords. Click [[https://ig.ft.com/password-strength-quiz/][here]] for an informative quiz.
+
+** Badge It: Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Having watched the videos and read the online advice answer the following questions:
+   - Why is sending an abusive text message not just harmless banter?
+   - Why is it important that we actually know the people on our friends/buddy list?
+   - Why do we need to periodically check our security settings?
+   - What should we do if we think some is not right i.e. someone is not who they says they are?
+   - What make a good password?
+   - Why is it important to have a secure password?
+
+- Upload your document to BourneToLearn.com in the platinum task place for Week 2.
+
+
 * Reporting concerns
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
