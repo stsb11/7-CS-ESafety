@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: ESafety
-#+AUTHOR: Marc Scott
+#+AUTHOR: Paul Dougall
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
@@ -87,7 +87,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Your Digital Footprint
+* Grooming - What is it?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -95,76 +95,204 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Just like you can track someone following their footprints, you can track someone online by following their digital footprint.
-- A digital footprint is the information that you leave behind when online.
-- There are two types of digital footprint:
-  + Active
-  + Passive
-- Your active footprint is the information you intentionally leave online. This could be emails that you've written, posts that you have made on social networks or photos you've uploaded.
-- Your passive footprint is the information that is collected about you through no direct action you have taken. This could be you IP address when browsing a website, your search engine queries or your location as tracked by your mobile service provider.
-** Try It
+- Grooming is when someone builds an emotional connection with a child to gain their trust for the purposes of abuse, exploitation or trafficking.
+- Children and young people can be groomed online or face-to-face, by a stranger or by someone they know - for example a family member, friend or professional.
+- Groomers may be male or female. They could be any age.
+- Many children and young people don't understand that they have been groomed or that what has happened is abuse.
+- 
+
+** Watch It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
-- Unless you are willing to make some major changes to the way you use the Internet, there is not a huge amount you can do to limit your passive footprint.
-- Your active footprint is completely in your control, however.
-- Create a table, detailing all the digital services you use (Snapchat, Instagram, WhatsApp, etc.)
-- For each one, write down how many messages and photos you sent/uploaded using the service.
-** Research It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: research
-:END:
-[[./img/l_stone_memorial.jpg]]
-- Everyone likes to share photos online. Sometimes we do it without really thinking about the consequences.
-- Have a read of [[http://readwrite.com/2012/11/26/social-media-shaming-and-a-dumb-photo][this article about Lindsey Stone]], who also liked to share photographs online.
-** Research It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: research
-:END:
-- It's not just photos that can get you in trouble.
-[[./img/sacco_tweet.jpg]]
-- Have a look at [[http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html][this article on Justine Sacco]], who thought she was just sending a joke tweet.
-** Try It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: try
-:END:
-- Have a discussion within your group.
-- Do you think these women deserved the treatment they received?
-- Both lost their jobs, and their actions will follow them for the rest of their lives. Is this right?
-- Have you ever posted something you later regretted?
-** Learn It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- A decade ago, photos were usually physical artefacts. You had a single copy and if it was lost or destroyed, it was gone forever.
-- Today photos are digital - 1s and 0s on a computer hard-drive.
-- When you post a photo to Instagram, you make a copy that sits on Instagram's servers.
-- Anyone who sees your photo can easily save it to their own computer or phone. Even if you delete the photo, there is no guarantee that Instagram will delete it from their servers.
-- As a rule of thumb, once a photo or message has been placed online, it is public *forever*.
-** Try It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: try
-:END:
-- Imagine in 10 years time you are applying for a job.
-- Are there any photos or messages you have posted that you would not like an employer to see?
-** Learn It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- Many people convince themselves that it doesn't matter what they post, because they have checked all their privacy settings, so their photos are not in the public domain.
-- What they often don't realise, is that a company's terms and conditions means they get to keep copies of all your photos.
-- These companies are often bought and sold. Instagram for instance is now owned by Facebook, meaning Facebook have access to all your photos.
-- You simply don't know which company or organisation is going to own your posts and photos in 5, 10 or 20 years time.
-- And as for the Government - they can easily ask any of the companies to hand over your data at any time.
-** Badge It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
-- Have a watch of this trailer for /Terms and Conditions May Apply/
+
+- Before we watch some videos below please answer the following questions:
+- =Don't worry these are for you and are not submitted to anyone else.=
+
 #+begin_html
-<iframe src="https://embed.theguardian.com/embed/video/technology/video/2013/sep/19/terms-and-conditions-may-apply-trailer-video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+ <form>
+1. Do you currently use the internet?:<br>
+<input type="radio" name="net" value="Yes" checked>Yes
+<input type="radio" name="net" value="No">No<br><br>
+If yes: home, school or both?<br><br>
+<input type="text" name="home"></br>
+<p>
+2. How often to you use the internet?:<br>
+<select name='times'>
+<option value="Less than once a week"> Less than once a week <option>
+<option value="Once a week"> Once a week <option>
+<option value="2-3 times a week"> 2-3 times a week <option>
+<option value="Almost everyday"> Almost everyday <option>
+<option value="Everyday"> Everyday <option>
+</select>
+<p>
+3. Do you use interactive internet applications such as:<br>
+chatrooms<br>
+<select name='options'>
+<option value="Yes"> Yes <option>
+<option value="No"> No <option>
+<option value="Don't know"> Don't know <option>
+</select> <br>
+email</br>
+<select name='options'>
+<option value="No"> No <option>
+<option value="Yes"> Yes <option>
+<option value="Don't know"> Don't know <option>
+</select>
+<br>
+Instant messaging</br>
+<select name='options'>
+<option value="Yes"> Yes <option>
+<option value="No"> No <option>
+<option value="Don't know"> Don't know <option>
+</select>
+<br>
+<p>
+4. If yes, do you save conversations that you have with people you meet online?</br>
+<select name='options'>
+<option value="No"> No <option>
+<option value="Yes"> Yes <option>
+<option value="Don't know"> Don't know <option>
+</select> <br>
+email</br>
+<select name='options'>
+<option value="Yes"> Yes <option>
+<option value="No"> No <option>
+<option value="Don't know"> Don't know <option>
+</select>
+<br>
+Instant messaging</br>
+<select name='options'>
+<option value="No"> No <option>
+<option value="Yes"> Yes <option>
+<option value="Don't know"> Don't know <option>
+</select>
+<br>
+<p>
+5. Have you ever given out any personal details(like your name, address, phone number, a photo of yourself, your school name, school address) to someone you haven't met face to face
+when using chatrooms or Instant Messaging?</br>
+<input type="radio" name="out" value="Yes" checked>Yes
+<br><input type="radio" name="out" value="No">No
+<br><input type="radio" name="out" value="Don't know">Don't know<br><br>
+If so, what details have you given?<br>
+<textarea name="out" rows="1" cols="50">
+</textarea> </br><br>
+
+6. Have you ever threatened or made to feel uncomfortable by someone when using email, Instant Messenger, a chatroom, or your mobile phone? <br>
+<input type="radio" name="yuk" value="Yes">Yes
+<br><input type="radio" name="yuk" value="No" checked>No
+<br><input type="radio" name="yuk" value="Don't know">Don't know<br>
+<p>
+7. If you felt threatened or bullied by someone who contacted you on the internet or on your mobile phone, who would you tell?<br>
+
+<select name='people'>
+<option value="No-one"> No one <option>
+<option value="Friend"> Friend <option>
+<option value="Parent"> Parent <option>
+<option value="Teacher"> Teacher <option>
+<option value="Police"> Police <option>
+<option value="Childline"> Childline <option>
+<option value="Other"> Other <option>
+</select><br>
+
+If other - whom?
+<input type="text" name="person"> <br>
+
+<p>
+8. Has someone you've met on the internet contacted you by phone or post?<br>
+
+<input type="radio" name="yuk" value="No">No
+<br><input type="radio" name="yuk" value="Yes">Yes
+<br><input type="radio" name="yuk" value="Don't know" checked>Don't know<br>
+<p>
+9. Have you ever asked or bene asked to meet up with somone face to face that you first met on the internet?<br>
+<input type="radio" name="yuk" value="Yes">Yes
+<br><input type="radio" name="yuk" value="No">No
+<br><input type="radio" name="yuk" value="Don't know" checked>Don't know<br>
+<p>
+10. Who would you tell if you were meeting up with someone you met on the internet?<br>
+
+<select name='people'>
+<option value="No-one"> No one <option>
+<option value="Friend"> Friend <option>
+<option value="Parent"> Parent <option>
+<option value="Teacher"> Teacher <option>
+<option value="Police"> Police <option>
+<option value="Childline"> Childline <option>
+<option value="Other"> Other <option>
+</select><br>
+
+If other - whom?
+<input type="text" name="person"> <br>No one etc..
+
+<p>
+
+11. Do you know how to block someone from contacting you on the Internet?<br>
+
+<input type="radio" name="block" value="No">No <br>
+<br><input type="radio" name="block" value="No">No<br>
+<br><input type="radio" name="block" value="Don't know" checked>Don't know<br>
+<p>
+
+12. If you have the internet at home, do you: <br>
+Have filtering software? <br>
+<select name='options'>
+<option value="Yes"> Yes <option>
+<option value="No"> No <option>
+<option value="Don't know"> Don't know <option>
+</select> <br>
+Use it in front of an adult? <br>
+<select name='options'>
+<option value="No"> No <option>
+<option value="Yes"> Yes <option>
+<option value="Don't know"> Don't know <option>
+</select> <br>
+Know that an adult check the history?<br>
+<select name='options'>
+<option value="Yes"> Yes <option>
+<option value="No"> No <option>
+<option value="Don't know"> Don't know <option>
+</select> <br>
+Talk to an adult about what you have been doing? <br>
+<select name='options'>
+<option value="No"> No <option>
+<option value="Yes"> Yes <option>
+<option value="Don't know"> Don't know <option>
+</select> <br>
+<p>
+
+</form>
 #+end_html
-- And [[https://tosdr.org/#][this website]] provides a simplified view of the Terms & Conditions for various services.
-- Will you be paying more attention to Terms and Conditions on sites you use from now on?
-- Justify your reasons.
+* Grooming - How does it happen?
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+- Grooming happens both online and in person. 
+- Groomers will hide their true intentions and may spend a long time gaining a child's trust. 
+- Groomers may try to gain the trust of a whole family to allow them to be left alone with a child and if they work with children they may use similar tactics with their colleagues.
+  Groomers do this by:
+
+- pretending to be someone they are not, for example saying they are the same age online
+- offering advice or understanding
+- buying gifts, alcohol, drugs
+- giving the child attention
+- using their professional position or reputation
+- taking them on trips, outings or holidays.
+
+
+
+#+BEGIN_HTML
+<iframe width="800" height="400" src="https://www.youtube.com/embed/Z5WEnqnq1Hk" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
+- This is not just an issue that affects girls. Boys can groomed online as well.
+
+#+BEGIN_HTML
+<iframe width="800" height="400" src="https://www.youtube.com/embed/9JpyO5XlfCo" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
+* End this
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
 

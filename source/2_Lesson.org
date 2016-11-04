@@ -92,47 +92,63 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-Today we are going to be looking at:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Today we are going to be looking at:
     - What makes personal information?
     - Positive vs. negative online behaviour?
     - Passwords to protect us
     - How to report if something is not right      
 ** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
 - Last lesson we watched a video on consequences. However we now know the golden rules. Can you remember them? Spend two minutes and discuss the *rules* with your partner.
 * What is personal information?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-- [[http://www.childnet.com/ufiles/Friendbook%2520timeline.pdf][Click this link]], and look at this girl's social network account.
-- What personal information can you see? 
+** Learn it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Look at this girl's social network account:
+  - [[http://www.childnet.com/ufiles/Friendbook%2520timeline.pdf][Open this link in a new tab]]
+- She has made a nunmber of mistakes that could lead to her being located in real life.
+- How many can you spot?
+- What attempts has she made to protect her identity?
 ** Document It
-- List some of the things that she has on her profile and separate them into:
-  - safe and responsible networking.
-  - potentional unsafe or risky behaviour.
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+- List, in Word or another text editor, some of the things that she has on her profile and separate them into:
+  - Safe and responsible networking
+  - Potentional unsafe or risky behaviour.
 - Here's one to get you started 
- - /Use of a cartoon for a profile picture 
-- *Useful links*
-- This Childnet [[http://www.childnet.com/resources/how-to-make-a-report][site]] shows how to report on various sites.
-- *[[https://ceop.police.uk/Safety-Centre/][CEOP]]* is part of the National Crime Agency and runs the 'thinkuknow.co.uk' [[https://www.thinkuknow.co.uk/11_13/][website]].
-- [[https://www.nspcc.org.uk][NSPCC]]'s *[[https://www.childline.org.uk][Childline]]* service is an important one to be aware of as an anonymous way of discussing problems and seeking help.
-
-* Being a good digital citizen:
+   - E.g. Use of a cartoon for a profile picture
+** Badge It: Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Upload your document to [[https://www.bournetolearn.com][BourneToLearn.com]] into the silver upload point for Week 2.
+* Being a good digital citizen
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-/Here are some more examples of unsafe behaviour:/
-
-*Using mobile phones in classrooms*
+- Examples of unsafe behaviour can include:
+- *Using mobile phones in classrooms*
 - In many schools using mobile phones is against school rules, at least during lessons. 
-- However, at BGS, you may have had good experience of using your mobile phone in Systems and Control to help with instructions. 
+- However, at BGS, you may have had good experience of using your mobile phone in Systems & Control to help with instructions. 
 - The item is not bad /per se/ it is what you do with it. Use it wisely.
 
 
 - *Visiting unknown websites included in emails from people you don’t know*
-file:img/dodgylink.png
+[[file:img/dodgylink.png]]
 - There are too many  unknown factors in this above email. Both the sender of the email and the link in the email are unknown. 
 - Viruses can be downloaded, without your knowledge, from websites. Using up-to-date anti virus software will help keep your computer as safe as possible but don't click on anything you are not sure about. 
-- If in doubt ask an adult or [[www.childnet.com/sorted]] for more information.
+- If in doubt ask an adult or visit [[www.childnet.com/sorted]] for more information.
 
 
 - *Forwarding on nasty texts about other pupils*
@@ -140,11 +156,12 @@ file:img/dodgylink.png
 - Clearly passing it on to make the matter worse is not the correct thing. Think before you act. Once it is done... it is done. 
 - This is a form of bullying called cyberbullying. It is not 'banter' or harmless - *it is a crime*.
 
+
 - *Forwarding on chain emails*
 - What is a chain letter/email? A chain emails is a message sent to someone asking them to pass on a message to as many people as possible. 
 - They are often hoaxes or urban legends. Harmless fun or a nuisance? The best policy... break the chain and delete them upon receipt.
-
  
+
 - *Letting your mates know about a site that helps with history coursework*
 - A great use of technology and as we all know sharing is caring! However, is everything on the World Wide Web true? 
 - Check out this [[http://zapatopi.net/treeoctopus/][site]]. What do you think?  
@@ -154,32 +171,58 @@ file:img/dodgylink.png
 - Photos are often a large part of young people’s online experiences and many of you are happy for your images to be posted online. You have heard that there are photos that have been posted about you that they are unhappy about. Do you know how to solve this? 
 - Many social networks make available reporting [[https://en-gb.facebook.com/help/1381617785483471?helpref%3Dsearch&sr%3D2&query%3Dposted%2520my%2520image%2520without%2520my%2520permission][facilities]] for abusive photos – make sure you know how to do it and do report if something is not right.
 
+
 - *Always accepting anyone who asks to be your buddy on instant messenger or a social network e.g. Instagram/Facebook*
 - It is incredibly important that you spend time reflecting on who you would accept into your online life. Not everyone is who they appear to be... 
 
 #+BEGIN_HTML
 <b>Humorous approach</b>
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/-IOOn2wR8bU" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="600" height="400" src="https://www.youtube.com/embed/-IOOn2wR8bU" frameborder="0" allowfullscreen></iframe>
+<br><br>
 <b>Scare tactics</b>
-
-<iframe width="800" height="600" src="https://www.youtube.com/embed/6jMhMVEjEQg" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/6jMhMVEjEQg" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
 
 - *Ignoring messages from your anti virus software saying that updates are available or out of date*
 - An important aspect of internet security is keeping up with updates to ensure the best protection for computers. 
 - Why? Check out this [[http://www.computerhowtoguide.com/2012/05/why-update-antivirus-software-frequently.html][site]].
 
-- *Having online discussions, with someone you don’t know, about private things*
+- *Having online discussions, with someone you don’t know about private things*
 - The internet can be an environment where users feel anonymous and they can become involved in conversations of a private matter with people they have never met. 
 - This can be a positive thing in terms of online counselling services such as [[https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/][Childline]]. However, some people engage children and young people in private discussions through flattery, persuasion and manipulation. 
 - You need to be aware of this and make sure that your private discussions are done with trustworthy, qualified people. 
+** Badge It: Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Write down the answers to the questions as you play.
+- [[https://www.esafety.gov.au/access/games_index.html][Open this link]] in a new tab and go to 'Pick your friends' - How can we spot a friend or a bully/[[https://www.wired.com/2015/07/catfish-2/][catfish]]?
+- From Crowd Surfing - what were the three rules before passing things on to someone else?
+- From DropBox - What makes something safe? What three courses of action do they suggest? Screenshot your time on the hard setting.
+- Flip and Fix; on the hard setting. What are the 8 'safe' responses?
+- Upload your document to BourneToLearn.com in the gold upload slot for Week 2.
 * Password Protection
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+** Learn it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
 - Finally let's learn about passwords. Click [[https://ig.ft.com/password-strength-quiz/][here]] for an informative quiz.
+** Badge It: Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Having watched the videos and read the online advice answer the following questions:
+   - Why is sending an abusive text message not just harmless banter?
+   - Why is it important that we actually know the people on our friends/buddy list?
+   - Why do we need to periodically check our security settings?
+   - What should we do if we think some is not right i.e. someone is not who they says they are?
+   - What make a good password?
+   - Why is it important to have a secure password?
+- Upload your document to BourneToLearn.com in the platinum upload slot for Week 2.
 * Reporting concerns
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -192,9 +235,11 @@ file:img/dodgylink.png
 - However there are other ways in which you may choose to seek help with online issues.
 - This includes ways you can challenge unacceptable behaviour online.
 
-*Useful links:*
+
+- *Useful links:*
 - This Childnet [[http://www.childnet.com/resources/how-to-make-a-report][site]] shows how to report on various sites.
 - *[[https://ceop.police.uk/Safety-Centre/][CEOP]]* is part of the National Crime Agency and runs the 'thinkuknow.co.uk' [[https://www.thinkuknow.co.uk/11_13/][website]].
 - [[https://www.nspcc.org.uk][NSPCC]]'s *[[https://www.childline.org.uk][Childline]]* service is an important one to be aware of as an anonymous way of discussing problems and seeking help.
 
-- *Source Acknowledgement:* These resources were made using the Childnet International Online Safety in the Computing Curriculum document.
+
+- *Source Acknowledgement:* These resources were made using the Childnet, 'International Online Safety in the Computing Curriculum' document.
