@@ -87,7 +87,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Grooming - What is it?
+* Grooming: What is it?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -97,16 +97,13 @@
 :END:
 - Grooming is when someone builds an emotional connection with a child to gain their trust for the purposes of abuse, exploitation or trafficking.
 - Children and young people can be groomed online or face-to-face, by a stranger or by someone they know - for example a family member, friend or professional.
-- Groomers may be male or female. They could be any age.
+- Groomers may be male or female. They could be any age. 
 - Many children and young people don't understand that they have been groomed or that what has happened is abuse.
-- 
-
-** Watch It
+** Answer It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
-
-- Before we watch some videos below please answer the following questions:
+- Before we watch some videos please answer the following questions:
 - =Don't worry these are for you and are not submitted to anyone else.=
 
 #+begin_html
@@ -263,36 +260,141 @@ Talk to an adult about what you have been doing? <br>
 
 </form>
 #+end_html
-* Grooming - How does it happen?
+* Case Studies: How does it happen?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
 :END:
 - Grooming happens both online and in person. 
 - Groomers will hide their true intentions and may spend a long time gaining a child's trust. 
 - Groomers may try to gain the trust of a whole family to allow them to be left alone with a child and if they work with children they may use similar tactics with their colleagues.
-  Groomers do this by:
+- Groomers do this by:
+    - pretending to be someone they are not, for example saying they are the same age online
+    - offering advice or understanding
+    - buying gifts, alcohol, drugs
+    - giving the child attention
+    - using their professional position or reputation
+    - taking them on trips, outings or holidays.
 
-- pretending to be someone they are not, for example saying they are the same age online
-- offering advice or understanding
-- buying gifts, alcohol, drugs
-- giving the child attention
-- using their professional position or reputation
-- taking them on trips, outings or holidays.
+** Ask It: Clare's Story
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- We are now going to watch some videos and answer some questions. 
+- Some of these videos maybe a little upsetting. 
+- Remember what we are talking about is probably rare, no one knows the actual numbers as some are potentially unreported, but we need to know about it.
 
+#+BEGIN_HTML 
+<iframe width="800" height="600" src="https://www.youtube.com/embed/Z5WEnqnq1Hk" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
+- Why did Clare met with the man?
+- Why did Clare to talk to the man?
+- How did he really see her?
+- Why did she not tell someone in the first half?
+- Who did she tell?
+
+** Ask It: Matt's Story
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+BEGIN_HTML
+<iframe width="800" height="600" src="https://www.youtube.com/embed/9JpyO5XlfCo" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
+- Why did Matt meet with Amber?
+- Where did he met Amber? 
+- Could you suggest a more appropriate to place they could have met?
+- Who was Amber?
+- What do we call it when someone pretends to be someone else online?
+- Why do you think he felt he had to go?
+- What should / could Matt have done to prevent the problems which he encountered? 
+- Compare Clare's and Matt's stories - what are the similarities? What are the differences?
+
+** Ask It: Tom's Story
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+[[./img/tom.png]]
+
+Before watching the next film take each of the following statements and think; what is good about this? what could go wrong?
+
+- Tom is 12. He has internet access in his bedroom. He often goes online and talks to his school friends.
+
+- He also enjoys going onto sites where he can chat with people he doesn’t know in the real world.
+
+- He makes friends with a boy called Jack. He likes chatting to Jack online and they both support the same football team. He even lives nearby!
+
+- One day when they are chatting online, Jack asks Tom if he wants to go football training with him.
 
 
 #+BEGIN_HTML
-<iframe width="800" height="400" src="https://www.youtube.com/embed/Z5WEnqnq1Hk" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/dkwkkwOntmc" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
 
-- This is not just an issue that affects girls. Boys can groomed online as well.
+- How did Jack make Tom feel he was special?
+- What were his reasons for doing this?
+- What other ways might someone try to make another person feel special?
+- What were the things that Tom did which made him vulnerable?
+- What should he have said / done?
+- Why did Tom feel that he couldn't tell anyone about what was happening? 
+- What would you do to prevent yourself from getting into a similar situation?
+** Badge It: Silver / Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Upload your answers to the questions from the three videos.
+- The quality of your answers will determine the badge awarded.
+- To be awarded the platinum badge your answers need to be of a good standard in regards to *green pen matters*.
 
-#+BEGIN_HTML
-<iframe width="800" height="400" src="https://www.youtube.com/embed/9JpyO5XlfCo" frameborder="0" allowfullscreen></iframe>
-#+END_HTML
+** Research It: A real life story
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Read this[[http://www.telegraph.co.uk/news/uknews/crime/6449556/Tributes-paid-to-teenager-Ashleigh-Hall-who-died-after-Facebook-date.html][ article]].
+- What do you think?
 
-* End this
+** Know It: Helping a friend
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+/If a friend tells you something that worries you:/
+
+  *Don’t judge them, just listen.*
+- Try not to put words into your friend’s mouth or tell them what they are feeling. 
+- Let them tell you what’s going on. 
+- Listen and support them.
+
+*Tell them that if you think they’re in danger you will seek help.*
+- Don’t promise to keep secrets. No secret which will hurt someone is worth keeping.
+
+*Tell an adult you trust about what has happened.*
+- This could be your parent/carer, teacher, youth worker, police of cer, doctor or social worker. 
+- Ask them to get help for your friend.
+*You can report what has happened to CEOP yourself, or do it with your friend.*
+- Do this by clicking on ClickCEOP button at thinkuknow.co.uk
+*Get support for yourself.*
+- You probably feel very anxious about what your friend has told you. You too need support to deal with what has happened. 
+- Talk to an adult you trust about how you are feeling. You might it helpful to talk to a counsellor: you could ask your teacher or doctor to refer you to a counselling service. 
+- Remember, you can call Childline to talk to someone at any time of day or night on 0800 1111.
+*Don't take it all on yourself*
+- Be realistic about the situation. You might have done all the right things, but you still might not be able to help your friend. 
+- Remember, what has happened is not your fault and you have done your best to get help. Make sure you are getting the support you need yourself.
+*What if you think there’s something wrong but they haven’t said anything yet?*
+- If you’re worried about a friend, don’t be afraid to tell them so. Even if they don’t want to talk, let them know you’re always there to listen. 
+- Maybe they’ll change their mind later on. Find more advice about how to support your friends at thinkuknow.co.uk
+
+* End of the session game
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+- Think of two truths and one lie about yourself. 
+- In pairs, youngest first, tell the other person your three 'facts'. 
+- Can they guess which are true? 
 
+
+~ Resources were created using the ThinkUKnow.com website.~
