@@ -38,72 +38,6 @@ http://hundredbooksayear.com/wp-content/uploads/2014/04/i-robot-movie-poster-999
 - useful as a follow up for the Yr 8 Artificial Intelligence Topic
 - a collection of nine stories regarding humans, robots and morality. 
 - It introduces Asimov's Three Laws of Robotics.
-
-
-
-*Free e-Books*
-
-
-
-** [[https://www.iis.se/docs/The_Internet_How_it_Works.pdf%20][How the internet works - Hasse Nilsson]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 400px
-http://thumbnails-visually.netdna-ssl.com/how-the-internet-works_5391f01eeac65_w1500.jpg
-
-- useful as a follow up for the Yr 7 How the internet topic works.
-- Free eBook on how the internet works just click on the link about
-- lots of diagrams and few words on each page but very informative.
-
-** [[http://www.20thingsilearned.com/en-GB/home][20 things I learned about browsers and the web - A Google Book]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 400px
-[[file: ./img/twentythings.png]]
-
-- About the web and how browsers work. 
-- Also free :)
-- Just click the above link.
-
-
-
-
-** 
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 400px
-
-
-[[[[https://inventwithpython.com/pygame/chapters/]] Making games with Python and PyGame - Al Sweigart
-
-
-image here
-
-- Using Pygame to make games - useful for Yr 9 Pygame topic
-
-
-
-
-
-- Using Python to make games - useful for Yr 8 Text games
-- Hacking secret ciphers - useful for Yr 8 Cryptography
-- Using Python to automate stuff
-
-
-- Nice explained with examples and code. 
-
-
-
-** [[http://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg][Cuckoo's Egg -  C. J. Cherryh]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-[[https://upload.wikimedia.org/wikipedia/en/9/95/CherryhCuckoosEggPBCover.jpg]]
-
 ** [[http://www.amazon.co.uk/Electronic-Gadgets-Evil-Genius-Do-It-Yourself/dp/0071790594/ref%3Dpd_sim_14_1?ie%3DUTF8&refRID%3D14JAWCQMGV57W7XVYX71][Electronics Gadgets for the Evil Genius - Bob Iannini ]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -117,4 +51,63 @@ https://images.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Fwww.pitsco.com%2F
 :END:
 #+attr_html: :width 100px
 https://www.nostarch.com/sites/default/files/imagecache/product_full/PFK_frontcover.jpg
+
+** Free Books 
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+
+** [[https://www.iis.se/docs/The_Internet_How_it_Works.pdf%20][How the internet works - Hasse Nilsson]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+http://thumbnails-visually.netdna-ssl.com/how-the-internet-works_5391f01eeac65_w1500.jpg
+
+- useful as a follow up for the Yr 7 How the internet topic works.
+- Free eBook on how the internet works just click on the link about
+- lots of diagrams and few words on each page but very informative.
+
+** [[http://www.20thingsilearned.com/en-GB/home][20 things I learned about browsers and the web - A Google Book]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+[[file: ./img/twentythings.png]]
+
+- About the web and how browsers work. 
+- Also free :)
+- Just click the above link.
+
+** [[https://inventwithpython.com/pygame/chapters/][Making games with Python and PyGame - Al Sweigart]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+[[file: ./img/pygame.png]]
+- Using Pygame to make games - useful for Yr 9 Pygame topic
+** [[https://inventwithpython.com/chapters/][Invent your own computer games with Python - Al Sweigart]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+[[file: ./img/games.png]]
+- Using Pygame to make games - useful for Yr 8 Text games
+** [[https://inventwithpython.com/chapters/][Hacking secret ciphers with Python - Al Sweigart]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+[[file: ./img/hack.png]]
+- Hacking secret ciphers - useful for Yr 8 Cryptography
+** [[https://inventwithpython.com/hacking/index.html][Automate the boring stuff with Python - Al Sweigart]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+[[file: ./img/automate.png]]
+- Using Python to automate stuff
+- All Al Sweigart books are nicely explained with examples and code. 
+
+
 
