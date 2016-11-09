@@ -115,7 +115,8 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - Look at this girl's social network account:
-  - [[http://www.childnet.com/ufiles/Friendbook%2520timeline.pdf][Open this link in a new tab]]
+  - [[file:img/friendbook.pdf][Click here]]
+
 - She has made a nunmber of mistakes that could lead to her being located in real life.
 - How many can you spot?
 - What attempts has she made to protect her identity?

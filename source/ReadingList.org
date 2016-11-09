@@ -5,8 +5,96 @@
 #+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
 #+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
 
-#+TITLE: Books about CS, Hacking and Technology
-#+AUTHOR: Marc Scott
+#+TITLE: Books about Computer Science, Hacking and Technology
+#+AUTHOR: Paul Dougall / Marc Scott
+
+** [[http://www.cambridge.org/codingclub-blackflag/][Black Flag: A code mission book - Matt Langley ]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+[[file: ./img/blackflag.png]]
+- A sample is [[http://www.codingclub.co.uk/uploaded_pdfs/BlackFlag_sample.pdf][here]]. 
+- It is an interactive story where you have to solve coding puzzles on the website. Sounds fun!
+
+** [[http://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg][A Beginners Guide to Coding - Marc Scott ]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+https://images-na.ssl-images-amazon.com/images/I/510HPdkLM1L._SX402_BO1,204,203,200_.jpg
+- Written by a former BGS teacher!
+- A Beginner's Guide to Coding is an easy-to-follow guide to the basics of coding, using the free programming languages of Scratch and Python. 
+- These step-by-step projects will have you talking to your own chatbot or making your own computer games in no time. 
+- Accessible, engaging and fun, this book is bursting with eye-catching illustrations and fantastic projects to introduce you to the world of coding.
+
+** [[https://en.wikipedia.org/wiki/I,_Robot][I, Robot - Isaac Asimov]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 100px
+http://hundredbooksayear.com/wp-content/uploads/2014/04/i-robot-movie-poster-9999-1020429330.jpg
+
+- useful as a follow up for the Yr 8 Artificial Intelligence Topic
+- a collection of nine stories regarding humans, robots and morality. 
+- It introduces Asimov's Three Laws of Robotics.
+
+
+
+*Free e-Books*
+
+
+
+** [[https://www.iis.se/docs/The_Internet_How_it_Works.pdf%20][How the internet works - Hasse Nilsson]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 400px
+http://thumbnails-visually.netdna-ssl.com/how-the-internet-works_5391f01eeac65_w1500.jpg
+
+- useful as a follow up for the Yr 7 How the internet topic works.
+- Free eBook on how the internet works just click on the link about
+- lots of diagrams and few words on each page but very informative.
+
+** [[http://www.20thingsilearned.com/en-GB/home][20 things I learned about browsers and the web - A Google Book]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 400px
+[[file: ./img/twentythings.png]]
+
+- About the web and how browsers work. 
+- Also free :)
+- Just click the above link.
+
+
+
+
+** 
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+#+attr_html: :width 400px
+
+
+[[[[https://inventwithpython.com/pygame/chapters/]] Making games with Python and PyGame - Al Sweigart
+
+
+image here
+
+- Using Pygame to make games - useful for Yr 9 Pygame topic
+
+
+
+
+
+- Using Python to make games - useful for Yr 8 Text games
+- Hacking secret ciphers - useful for Yr 8 Cryptography
+- Using Python to automate stuff
+
+
+- Nice explained with examples and code. 
+
 
 
 ** [[http://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg][Cuckoo's Egg -  C. J. Cherryh]]
@@ -15,46 +103,6 @@
 :END:
 #+attr_html: :width 100px
 [[https://upload.wikimedia.org/wikipedia/en/9/95/CherryhCuckoosEggPBCover.jpg]]
-** [[http://en.wikipedia.org/wiki/Ready_Player_One][Ready Player One - Ernest Cline]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:     
-#+attr_html: :width 100px
-   [[https://upload.wikimedia.org/wikipedia/en/a/a4/Ready_Player_One_cover.jpg]]
-** [[http://en.wikipedia.org/wiki/Neuromancer][Neuromancer- William Gibson]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-   https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg
-
-
-** [[https://en.wikipedia.org/wiki/Cryptonomicon][The Cryptonomicon - Neal Stephenson]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-   https://upload.wikimedia.org/wikipedia/en/9/93/Cryptonomicon%281stEd%29.jpg
-
-** [[http://en.wikipedia.org/wiki/Snow_Crash][Snowcrash - Neal Stephenson]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-https://upload.wikimedia.org/wikipedia/en/d/d5/Snowcrash.jpg
-** [[http://en.wikipedia.org/wiki/Reamde][REAMDE - Neal Stephenson]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-https://upload.wikimedia.org/wikipedia/en/2/26/Reamde_stephenson_williammorrow_2011.jpg
-
-** [[https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%253F][Do Androids Dream of Electric Sheep - Philip K. Dick]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-https://upload.wikimedia.org/wikipedia/en/e/ee/DoAndroidsDream.png
 
 ** [[http://www.amazon.co.uk/Electronic-Gadgets-Evil-Genius-Do-It-Yourself/dp/0071790594/ref%3Dpd_sim_14_1?ie%3DUTF8&refRID%3D14JAWCQMGV57W7XVYX71][Electronics Gadgets for the Evil Genius - Bob Iannini ]]
 :PROPERTIES:
@@ -70,24 +118,3 @@ https://images.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Fwww.pitsco.com%2F
 #+attr_html: :width 100px
 https://www.nostarch.com/sites/default/files/imagecache/product_full/PFK_frontcover.jpg
 
-** [[https://en.wikipedia.org/wiki/The_Peripheral][Peripheral - William Gibson]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-[[file:img/theperipheral.jpg]]
-
-
-** [[https://en.wikipedia.org/wiki/Influx_%2528novel%2529][Influx - Daniel Saurez]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-https://www.sfsite.com/grb/1400/iflg.jpg
-
-** [[https://en.wikipedia.org/wiki/The_Andromeda_Strain][The Andromeda Strain - Michael Crighton]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+attr_html: :width 100px
-https://upload.wikimedia.org/wikipedia/en/b/bf/Big-andromedastrain.jpg
